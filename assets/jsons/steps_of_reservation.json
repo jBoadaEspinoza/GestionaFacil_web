@@ -1,0 +1,23 @@
+[
+	{
+		"id":"1",
+		"large_denomination":{
+			"es":"selecciona tu programa turístico",
+			"en":"choose your touristic program"
+		}
+	},
+	{
+		"id":"2",
+		"large_denomination":{
+			"es":"Ingresa los datos de la persona responsable de la reservación",
+			"en":"enter the details of the person responsible for the reservation"
+		}
+	},
+	{
+		"id":"3",
+		"large_denomination":{
+			"es":"verificar details y confirmar reservación",
+			"en":"check details and confirm reservation"
+		}
+	}
+]

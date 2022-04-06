@@ -1,0 +1,72 @@
+{
+    "USD": {
+        "symbol": "$",
+        "name": {"en":"US Dollar","es":"Dolar Americano"},
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "USD",
+        "name_plural": "US dollars",
+        "rate_respect_us_dollar":"1"
+    },
+    "EUR": {
+        "symbol": "€",
+        "name": {"en":"Euro","es":"Euro"},
+        "symbol_native": "€",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "EUR",
+        "name_plural": "euros",
+        "rate_respect_us_dollar":"1.14132"
+    },
+    "CNY": {
+        "symbol": "CN¥",
+        "name": {"en":"Chinese Yuan","es":"Yuan Chino"},
+        "symbol_native": "CN¥",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CNY",
+        "name_plural": "Chinese yuan",
+        "rate_respect_us_dollar":"0.144970"
+    },
+    "COP": {
+        "symbol": "CO$",
+        "name": {"en":"Colombian Peso","es":"Peso Colombiano"},
+        "symbol_native": "$",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "COP",
+        "name_plural": "Colombian pesos",
+        "rate_respect_us_dollar":"0.000303489"
+    },
+    "GBP": {
+        "symbol": "£",
+        "name": {"en":"British Pound Sterling","es":"Libra Esterlina"},
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GBP",
+        "name_plural": "British pounds sterling",
+        "rate_respect_us_dollar":"1.27088"
+    },
+    "PEN": {
+        "symbol": "S/.",
+        "name": {"en":"Peruvian Nuevo Sol","es":"Nuevo Sol Peruano"},
+        "symbol_native": "S/.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PEN",
+        "name_plural": "Peruvian nuevos soles",
+        "rate_respect_us_dollar":"0.297856"
+    },
+    "RUB": {
+        "symbol": "RUB",
+        "name": {"en":"Russian Ruble","es":"Rublo Ruso"},
+        "symbol_native": "руб.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "RUB",
+        "name_plural": "Russian rubles",
+        "rate_respect_us_dollar":"0.0146044"
+    }
+}
